@@ -6,6 +6,9 @@ A simple Generative Adversarial Network (GAN) implementation for generating MNIS
 
 This project implements a basic GAN architecture to generate handwritten digits similar to those in the MNIST dataset. The implementation uses fully connected layers and is designed to run in Google Colab for easy accessibility.
 
+![GAN Training Progress](assets/gan_training_progress.gif)
+
+
 ## Features
 
 - Simple GAN architecture with fully connected layers
